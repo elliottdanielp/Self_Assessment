@@ -1,6 +1,6 @@
 # Self_Assessment
 
-  Of the course of the project my main focus was GitHub as I use GitHub daily for work and the rest of the team was not as comfortable with merging the branches. I also spent most of my time working in Tableau creating the dashboard. For the parts that I didn’t play as big of a role in our team communicated wonderfully, we had a lot of discussions as a team on all the parts providing feedback and help to one another through the whole process. 
+  Over the course of the project my main focus was GitHub as I use GitHub daily for work and the rest of the team was not as comfortable with merging the branches. I also spent most of my time working in Tableau creating the dashboard. For the parts that I didn’t play as big of a role in our team communicated wonderfully, we had a lot of discussions as a team on all the parts providing feedback and help to one another through the whole process. 
 
   The communication protocol the team followed was verry open and honest I felt. We used slack as our main form of communication be it sharing links for articles, we may have found our helping with looking at code for one another. Honestly with the way the team communicates I would not do anything differently. Our strengths as a team shined bright due to the fact, we didn’t have any butting of heads. Our team shared many laughs together and asked if we would have a new member join the team. I think the only tip would be to come with an open mind and listen to what everyone on the team has to say and things will fall into place.
 
